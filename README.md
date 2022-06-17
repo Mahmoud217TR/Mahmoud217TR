@@ -95,5 +95,10 @@
 	</a>
 </p>
 <hr>
+
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud217tr&theme=gruvbox' width="100%">
+
+<hr>
+
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=mahmoud217tr&theme=gruvbox&show_icons=true&locale=en" alt="Mahmoud217TR" /></p>
 <p align="right"><img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud217tr&theme=gruvbox&" alt="Mahmoud217TR"/></p>

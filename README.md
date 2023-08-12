@@ -24,76 +24,113 @@
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 <br>
-<p align="center">
-	<!-- HTML -->
-	<a href="https://github.com/Mahmoud217TR" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="HTML">
-	</a>
-	<!-- CSS3 -->
-	<a href="https://github.com/Mahmoud217TR" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="64" height="64"/>
-	</a>
-	<!-- JavaScript -->
-	<a href="https://github.com/Mahmoud217TR" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64"/>
-	</a> 
-	<!-- PHP -->
-	<a href="https://github.com/Mahmoud217TR" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="64" height="64"/>
-	</a>
-	<!-- Laravel -->
-	<a href="https://github.com/Mahmoud217TR" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" alt="Laravel" width="64" height="64"/>
-	</a>
-	<!-- Vue -->
-	<a href="https://github.com/Mahmoud217TR" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="Vue">
-	</a>
-	<!-- Bootstrap -->
-	<a href="https://github.com/Mahmoud217TR" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="64" height="64"/>
-	</a>
-	<!-- Sass -->
-	<a href="https://github.com/Mahmoud217TR" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="64" height="64"/>
-	</a>
-	<!-- Python -->
-	<a href="https://github.com/Mahmoud217TR" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="Python">
-	</a>
-	<!-- C++ -->
-	<a href="https://github.com/Mahmoud217TR" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="C++">
-	</a>
-	<!-- C# -->
-	<a href="https://github.com/Mahmoud217TR" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="C#">
-	</a>
-	<!-- Git -->
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="64" height="64"/>
-	</a>
-	<!-- MySQL -->
-	<a href="https://github.com/Mahmoud217TR" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="64" height="64"/>
-	</a>
-	<!-- Node JS -->
-	<a href="https://github.com/Mahmoud217TR" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node JS" width="64" height="64"/>
-	</a>
-	<!-- Java -->
-	<a href="https://github.com/Mahmoud217TR" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java" width="64" height="64"/>
-	</a>
-	<!-- Qt -->
-	<a href="https://github.com/Mahmoud217TR" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" alt="Qt" width="64" height="64"/>
-	</a>
-	<!-- Kotlin -->
-	 <a href="https://github.com/Mahmoud217TR" target="_blank" rel="noreferrer">
-		 <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" alt="Kotlin" width="64" height="64"/>
-	</a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#laravel">
+	<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <a href="#livewire">
+	 <img src="https://avatars.githubusercontent.com/u/51960834?s=48&v=4" width="48" height="48" alt="Livewire" />
+      </a>
+	<br>Livewire
+   </td>
+   <td align="center" width="96">
+      <a href="#alpine.js">
+	 <img src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg" width="48" height="48" alt="Alpine.js" />
+      </a>
+	<br>Alpine.js
+   </td>
+   <td align="center" width="96">
+      <a href="#tailwindcss">
+	 <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+	<br>Tailwind CSS
+   </td>
+  </tr>
+  <tr>
+      <td align="center" width="96">
+      <a href="#html5">
+        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>
+    <td align="center" width="96">
+      <a href="#css3">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+      </a>
+      <br>CSS3
+    </td>
+     <td align="center" width="96">
+      <a href="#bootstrap">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" width="48" height="42" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96">
+      <a href="#js">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+      </a>
+      <br>Javascript
+    </td>
+  </tr>
+  <tr>
+      <td align="center" width="96">
+      <a href="#vuejs">
+        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+      </a>
+      <br>Vue JS
+    </td>
+    <td align="center" width="96">
+        <a href="#jQuery">
+            <img src="https://avatars.githubusercontent.com/u/70142?s=48&v=4" width="48" height="48"
+                alt="jQuery" />
+        </a>
+        <br>jQuery
+    </td>
+      <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#sass">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+  </tr>
+   <tr>
+      <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+      <td align="center"  width="96">
+      <a href="#forge">
+        <img src="https://cdn-1.webcatalog.io/catalog/laravel-forge/laravel-forge-icon-filled-256.png?v=1675595204797" width="48" height="48" alt="Forge" />
+      </a>
+      <br>Forge
+    </td>
+      <td align="center" width="96">
+      <a href="#redis" >
+        <img src="https://avatars.githubusercontent.com/u/1529926?s=48&v=4" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+	<td align="center" width="96">
+      <a href="#docker" >
+        <img src="https://avatars.githubusercontent.com/u/7739233?s=48&v=4" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+  </tr>
+</table>
 <hr>
 
 <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud217tr&theme=gruvbox' width="100%">

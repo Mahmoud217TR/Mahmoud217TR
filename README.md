@@ -3,7 +3,7 @@
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=mahmoud217tr&color=fd9900&style=flat" alt="mahmoud217tr" />
 </p>
-<h3 align="center">Full Stack Web Developer 💻 Programmer and Problem Solver 💡I Also like Game Developing and Modding 🎮</h3>
+<h3 align="center">Software Engineer 🎓 Full Stack Web Developer 💻 Programmer and Problem Solver 💡</h3>
 <br>
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud217tr" alt="mahmoud217tr" /></a>

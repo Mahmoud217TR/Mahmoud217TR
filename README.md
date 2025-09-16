@@ -1,141 +1,21 @@
-<h1 align="center">Hi there my name is Mahmoud 👋</h1>
-<br>
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=mahmoud217tr&color=fd9900&style=flat" alt="mahmoud217tr" />
-</p>
-<h3 align="center">Software Engineer 🎓 Full Stack Web Developer 💻 Programmer and Problem Solver 💡</h3>
-<br>
-<p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud217tr" alt="mahmoud217tr" /></a>
-</p>
-<br>
-<p align="right">
-	<img width='40%' align="right" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud217tr&layout=compact&theme=gruvbox" alt="Mahmoud217TR">
-</p>
-<h3 align ="left">
-	<br>
-	<ul>
-		<li>👀 Just call me <strong>Marlo</strong></li><br>
-		<li>👨‍💻 Check my <a target="_blank" href='http://mahmoudtr.atwebpages.com'>Portfolio</a></li><br>
-		<li>📫 You can reach me at mahmoud17tr@gmail.com</li><br>
-	</ul>
-</h3>
-<br>
-<hr>
-<h3 align="center">Languages and Tools:</h3>
-<br>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#laravel">
-	<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <a href="#livewire">
-	 <img src="https://avatars.githubusercontent.com/u/51960834?s=48&v=4" width="48" height="48" alt="Livewire" />
-      </a>
-	<br>Livewire
-   </td>
-   <td align="center" width="96">
-      <a href="#alpine.js">
-	 <img src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg" width="48" height="48" alt="Alpine.js" />
-      </a>
-	<br>Alpine.js
-   </td>
-   <td align="center" width="96">
-      <a href="#tailwindcss">
-	 <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" width="48" height="48" alt="Tailwind CSS" />
-      </a>
-	<br>Tailwind CSS
-   </td>
-  </tr>
-  <tr>
-      <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-    <td align="center" width="96">
-      <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
-      </a>
-      <br>CSS3
-    </td>
-     <td align="center" width="96">
-      <a href="#bootstrap">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" width="48" height="42" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-     <td align="center" width="96">
-      <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
-      </a>
-      <br>Javascript
-    </td>
-  </tr>
-  <tr>
-      <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
-      </a>
-      <br>Vue JS
-    </td>
-    <td align="center" width="96">
-        <a href="#jQuery">
-            <img src="https://avatars.githubusercontent.com/u/70142?s=48&v=4" width="48" height="48"
-                alt="jQuery" />
-        </a>
-        <br>jQuery
-    </td>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#sass">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-  </tr>
-   <tr>
-      <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-      <td align="center"  width="96">
-      <a href="#forge">
-        <img src="https://cdn-1.webcatalog.io/catalog/laravel-forge/laravel-forge-icon-filled-256.png?v=1675595204797" width="48" height="48" alt="Forge" />
-      </a>
-      <br>Forge
-    </td>
-      <td align="center" width="96">
-      <a href="#redis" >
-        <img src="https://avatars.githubusercontent.com/u/1529926?s=48&v=4" width="48" height="48" alt="Redis" />
-      </a>
-      <br>Redis
-    </td>
-	<td align="center" width="96">
-      <a href="#docker" >
-        <img src="https://avatars.githubusercontent.com/u/7739233?s=48&v=4" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-  </tr>
-</table>
-<hr>
+# 💫 About Me:
+🔭 I’m currently leading full-stack web projects at QIT Company: optimizing Laravel apps, integrating payment gateways, and deploying scalable APIs.<br>🤝 I’m looking to collaborate on SaaS platforms, RESTful APIs, or e-commerce systems using Laravel, Vue.js, and Docker.<br>🫱I’m looking for help with Advanced system architecture and cloud scaling for PHP/Laravel stacks.<br>🌱 I’m currently learning New PHP runtimes, deployment pipelines, and backend performance techniques.<br>💬Ask me about anything Laravel-related, API design, server management, mentoring, or software engineering.<br>⚡ Fun fact: I won the “Relentless Programmers” award at the 2019 Syrian Collegiate Programming Contest under ICPC.
 
-<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud217tr&theme=gruvbox' width="100%">
 
-<hr>
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@mahmoud2tr.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoudtr) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mahmoud17tr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mahmoud2TR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahmoud17tr@gmail.com) 
 
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=mahmoud217tr&theme=gruvbox&show_icons=true&locale=en" alt="Mahmoud217TR" /></p>
-<p align="right"><img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud217tr&theme=gruvbox&" alt="Mahmoud217TR"/></p>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mahmoud217TR&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mahmoud217TR&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud217TR&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mahmoud217TR&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mahmoud217TR&icon=1&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
